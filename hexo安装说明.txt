@@ -9,3 +9,5 @@ http://www.jianshu.com/p/858ecf233db9
 http://www.jianshu.com/collection/7fafdc0abb5b     #通过Hexo建立个人博客站点，了解Hexo，研究Hexo，从前端建站到后端Node.js
 
 http://www.jianshu.com/p/35e197cb1273
+
+http://blog.fens.me/hexo-blog-github/
