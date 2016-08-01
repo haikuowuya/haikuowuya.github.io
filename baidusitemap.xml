@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+
+    
+  <url>
+    <loc>http://haikuowuya.com/2016/08/01/haikuowuya/</loc>
+    <lastmod>2016-08-01T06:50:57.734Z</lastmod>
+    <data>
+        <display>
+        <title>haikuowuya</title>
+        <pubTime>2016-08-01T06:19:20.000Z</pubTime>
+        
+        <tag>markdown</tag>
+         
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+    
+    
+  <url>
+    <loc>http://haikuowuya.com/2016/07/29/hello-world/</loc>
+    <lastmod>2016-07-29T12:27:57.537Z</lastmod>
+    <data>
+        <display>
+        <title>Hello World</title>
+        <pubTime>2016-07-29T12:27:57.534Z</pubTime>
+        
+         
+           
+        </display>
+    </data>
+    </url>
+
+</urlset>
