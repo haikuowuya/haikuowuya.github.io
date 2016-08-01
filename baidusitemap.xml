@@ -4,6 +4,21 @@
 
     
   <url>
+    <loc>http://haikuowuya.com/2016/07/29/hello-world/</loc>
+    <lastmod>2016-08-01T09:45:33.244Z</lastmod>
+    <data>
+        <display>
+        <title>Hello World</title>
+        <pubTime>2016-07-29T12:27:57.534Z</pubTime>
+        
+         
+           
+        </display>
+    </data>
+    </url>
+
+    
+  <url>
     <loc>http://haikuowuya.com/2016/08/01/haikuowuya/</loc>
     <lastmod>2016-08-01T06:50:57.734Z</lastmod>
     <data>
@@ -21,19 +36,4 @@
 
     
     
-    
-  <url>
-    <loc>http://haikuowuya.com/2016/07/29/hello-world/</loc>
-    <lastmod>2016-07-29T12:27:57.537Z</lastmod>
-    <data>
-        <display>
-        <title>Hello World</title>
-        <pubTime>2016-07-29T12:27:57.534Z</pubTime>
-        
-         
-           
-        </display>
-    </data>
-    </url>
-
 </urlset>
