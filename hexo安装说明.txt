@@ -1,0 +1,9 @@
+http://opiece.me/2015/04/09/hexo-guide/
+
+http://www.jianshu.com/p/b7886271e21a
+
+http://www.imys.net/
+
+http://www.jianshu.com/p/858ecf233db9
+
+http://www.jianshu.com/collection/7fafdc0abb5b     #通过Hexo建立个人博客站点，了解Hexo，研究Hexo，从前端建站到后端Node.js
