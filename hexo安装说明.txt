@@ -2,6 +2,7 @@ http://opiece.me/2015/04/09/hexo-guide/
 
 http://www.jianshu.com/p/b7886271e21a
 
+https://github.com/yscoder/hexo-theme-indigo
 http://www.imys.net/
 
 http://www.jianshu.com/p/858ecf233db9
